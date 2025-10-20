@@ -6,7 +6,7 @@ permitindo usá-lo como **mouse/tablet digital** e **teclado virtual** — ideal
 Infelizmente no momento o mesmo so e compativel com versões web dos mesmos jogos por questões de anticheats e sobreposições dos mesmos
 ---
 ##  Link Para Download
-Baixe os arquivos aqui `Download`([link direto](sha256:09c83b76a9339063141f119ee990eee9f8ea01e372ae8a797d2c0c18f83f3888)).
+Baixe os arquivos aqui `Download`([link direto](https://github.com/ZekiosZ/OsuMultiDevice/releases/tag/New)).
 
 ## 🎯 Funcionalidades
 

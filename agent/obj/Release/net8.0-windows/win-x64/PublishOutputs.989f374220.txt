@@ -1,2 +1,0 @@
-C:\Users\Zekios\Downloads\OsuMultiDevice\agent\dist\TouchBoard.Agent.pdb
-C:\Users\Zekios\Downloads\OsuMultiDevice\agent\dist\TouchBoard.Agent.exe

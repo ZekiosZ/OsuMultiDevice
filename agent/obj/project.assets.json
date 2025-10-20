@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zekios\\Downloads\\OsuMultiDevice\\agent\\TouchBoard.Agent.csproj",
-      "projectName": "TouchBoard.Agent",
-      "projectPath": "C:\\Users\\Zekios\\Downloads\\OsuMultiDevice\\agent\\TouchBoard.Agent.csproj",
+      "projectUniqueName": "C:\\Users\\Zekios\\Desktop\\OsuMultiDevice\\agent\\osumultidevice.Agent.csproj",
+      "projectName": "osumultidevice.Agent",
+      "projectPath": "C:\\Users\\Zekios\\Desktop\\OsuMultiDevice\\agent\\osumultidevice.Agent.csproj",
       "packagesPath": "C:\\Users\\Zekios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zekios\\Downloads\\OsuMultiDevice\\agent\\obj\\",
+      "outputPath": "C:\\Users\\Zekios\\Desktop\\OsuMultiDevice\\agent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zekios\\AppData\\Roaming\\NuGet\\NuGet.Config"

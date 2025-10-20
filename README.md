@@ -6,7 +6,7 @@ permitindo usá-lo como **mouse/tablet digital** e **teclado virtual** — ideal
 Infelizmente no momento o mesmo so e compativel com versões web dos mesmos jogos por questões de anticheats e sobreposições dos mesmos
 ---
 ##  Link Para Download
-Baixe os arquivos aqui `Download`([link direto](https://drive.google.com/file/d/1J9QPoP-QQkkDj1N7i65AI4aVaVjiDYjq/view?usp=sharing)).
+Baixe os arquivos aqui `Download`([link direto](sha256:09c83b76a9339063141f119ee990eee9f8ea01e372ae8a797d2c0c18f83f3888)).
 
 ## 🎯 Funcionalidades
 
@@ -39,10 +39,13 @@ Baixe os arquivos aqui `Download`([link direto](https://drive.google.com/file/d/
 3. Mantenha o terminal aberto — ele mostra logs dos comandos recebidos e mantem o server rodando.
 
 ### 📱 No Android (App)
-1. Baixe e instale o arquivo **OsuMultiDevie.apk**.
+1. Baixe e instale o arquivo **OsuMultiDevice.apk**.
 2. Conecte o celular e o PC na **mesma rede** ou via **USB Tethering**.
 3. Abra o app — ele detectará o agente automaticamente.
 4. Escolha o modo “Tablet/Mouse” ou “Keyboard”.
 5. Divirta-se 🎮
 
-
+---
+### ℹ️ Aviso
+Este projeto foi desenvolvido apenas como um exercício pessoal e para portfólio.
+Não há fins comerciais, e o uso do código é de livre estudo.
